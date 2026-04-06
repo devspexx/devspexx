@@ -9,8 +9,8 @@ A also like to design scalable systems, stuff that has to do with metrics, autom
 #### Tech
 I am a full stack web and software developer.<br>
 
-> C# .NET WinForms / WPF, .NET MAUI, HTML5, CSS3, JS, jQuery, PHP7+
-> Java, C++, C. Linux / Windows server systems. 
+- C# .NET WinForms / WPF, .NET MAUI,
+- HTML5, CSS3, JS, jQuery, PHP7+, Java, C++, C. Linux / Windows server systems. 
 
 #### Contact
-> You can contact me on Discord `spexxdev`
+You can contact me on Discord `spexxdev`
